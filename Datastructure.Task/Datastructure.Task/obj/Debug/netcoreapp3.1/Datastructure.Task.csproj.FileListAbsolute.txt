@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\bin\Debug\netcoreapp3.1\Datastructure.Task.exe
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\bin\Debug\netcoreapp3.1\Datastructure.Task.deps.json
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\bin\Debug\netcoreapp3.1\Datastructure.Task.runtimeconfig.json
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\bin\Debug\netcoreapp3.1\Datastructure.Task.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\bin\Debug\netcoreapp3.1\Datastructure.Task.dll
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\bin\Debug\netcoreapp3.1\Datastructure.Task.pdb
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\obj\Debug\netcoreapp3.1\Datastructure.Task.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\obj\Debug\netcoreapp3.1\Datastructure.Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\obj\Debug\netcoreapp3.1\Datastructure.Task.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\obj\Debug\netcoreapp3.1\Datastructure.Task.AssemblyInfo.cs
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\obj\Debug\netcoreapp3.1\Datastructure.Task.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\obj\Debug\netcoreapp3.1\Datastructure.Task.dll
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\obj\Debug\netcoreapp3.1\Datastructure.Task.pdb
+C:\Users\HP\Desktop\Development\Gen.Col.Datastructure\Datastructure.Task\Datastructure.Task\obj\Debug\netcoreapp3.1\Datastructure.Task.genruntimeconfig.cache
